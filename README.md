@@ -25,7 +25,7 @@ Before using this application, ensure you have PyYAML installed.
 pip install PyYAML
 ```
 
-## Filess
+## Files
 * `cargoApp.py` - The main application file for calculating the needed number of trolleys.
 * `cargoData.yaml` - A YAML file containing cargo data.
 * `cargoAppTest.py` - Unit tests for the application.
